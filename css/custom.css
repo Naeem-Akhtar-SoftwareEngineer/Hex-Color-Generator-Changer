@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+}
+.box-outer{
+  flex-direction: column;
+}
+.btn-wrap{
+  font-size: 14px;
+  background-color: blue;
+  padding: 12px 25px;
+  color: #fff;
+  display: inline-flex;
+  text-decoration: none;
+  margin-top: 50px;
+}
+.btn-wrap:hover{
+  color: #fff;
+  text-decoration: none;
+}
